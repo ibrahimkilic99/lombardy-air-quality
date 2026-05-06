@@ -1,0 +1,493 @@
+IdSensore,NomeTipoSensore,Idstazione,NomeStazione,Provincia,Comune,lat,lng
+17127,Benzene,501,Milano v.Marche,MI,Milano,45.49631883,9.19093444
+6691,Ozono,642,Pavia v. Folperti,PV,Pavia,45.19468231,9.16464919
+6939,PM10 (SM2005),600,Lodi v.Vignati,LO,Lodi,45.30601628,9.48527511
+5531,Biossido di Azoto,528,Milano Verziere,MI,Milano,45.46334886,9.19532511
+9999,Biossido di Azoto,683,Cassano d'Adda 2-v.Milano,MI,Cassano d'Adda,45.52647322,9.515991
+5670,Biossido di Zolfo,584,Bergamo v.Garibaldi,BG,Bergamo,45.69568669,9.66126061
+5599,Biossido di Azoto,596,Osio Sotto v.per Levate,BG,Osio Sotto,45.62055568,9.61173782
+10449,Particelle sospese PM2.5,560,Varese v.Copelli,VA,Varese,45.8169745,8.82024911
+6218,Ossidi di Azoto,583,Bergamo v.Meucci,BG,Bergamo,45.69104328,9.64366092
+5563,Biossido di Azoto,560,Varese v.Copelli,VA,Varese,45.8169745,8.82024911
+6380,Ossidi di Azoto,572,Morbegno v.Cortivacci,SO,Morbegno,46.135486,9.56624
+20685,Ammoniaca,501,Milano v.Marche,MI,Milano,45.49631883,9.19093444
+12627,Piombo,705,Milano Pascal Città Studi,MI,Milano,45.478347,9.231667
+9991,Ozono,681,Moggio Loc. Penscei,LC,Moggio,45.91279097,9.49754261
+6354,Ossidi di Azoto,548,Milano v.Senato,MI,Milano,45.470501,9.19746075
+6915,PM10 (SM2005),554,Saronno v.Santuario,VA,Saronno,45.62735705,9.02640138
+10273,PM10 (SM2005),705,Milano Pascal Città Studi,MI,Milano,45.478347,9.231667
+6817,Ossidi di Azoto,656,Gambara v.Parma,BS,Gambara,45.24955194,10.29913
+20441,Ossidi di Azoto,681,Moggio Loc. Penscei,LC,Moggio,45.91279097,9.49754261
+6382,Ossidi di Azoto,569,Sondrio v.Mazzini,SO,Sondrio,46.16797103,9.87014581
+10548,PM10 (SM2005),1269,Dalmine v.Verdi,BG,Dalmine,45.64971,9.60123469
+9833,Benzene,664,Mantova p.zza Gramsci,MN,Mantova,45.15175186,10.78141717
+10166,Benzene,703,Schivenoglia v. Malpasso,MN,Schivenoglia,45.01688067,11.07609728
+9984,Particelle sospese PM2.5,669,Brescia Villaggio Sereno,BS,Brescia,45.51306214,10.19190606
+12598,Piombo,609,Casirate d'Adda v. Cimitero,BG,Casirate d'Adda,45.49822794,9.55624181
+20042,Ammoniaca,703,Schivenoglia v. Malpasso,MN,Schivenoglia,45.01688067,11.07609728
+10070,Biossido di Zolfo,693,Sannazzaro de' Burgondi v.Traversi,PV,Sannazzaro de' Burgondi,45.10277464,8.90418742
+12531,PM10 (SM2005),1297,Spinadesco v.Battisti,CR,Spinadesco,45.15047339,9.93059842
+10173,PM10 (SM2005),703,Schivenoglia v. Malpasso,MN,Schivenoglia,45.01688067,11.07609728
+6951,PM10 (SM2005),649,Brescia v.Broletto,BS,Brescia,45.54006456,10.22281989
+20197,PM10 (SM2005),598,San Rocco al Porto v.Matteotti,LO,San Rocco al Porto,45.08199189,9.70079278
+12637,Nikel,548,Milano v.Senato,MI,Milano,45.470501,9.19746075
+6859,Biossido di Azoto,661,Rezzato v.De Gasperi,BS,Rezzato,45.51571417,10.33624003
+10279,Biossido di Azoto,705,Milano Pascal Città Studi,MI,Milano,45.478347,9.231667
+30163,Biossido di Azoto,669,Brescia Villaggio Sereno,BS,Brescia,45.51306214,10.19190606
+9918,Ossidi di Azoto,664,Mantova p.zza Gramsci,MN,Mantova,45.15175186,10.78141717
+20771,Ammoniaca,683,Cassano d'Adda 2-v.Milano,MI,Cassano d'Adda,45.52647322,9.515991
+20596,Particelle sospese PM2.5,517,Turbigo,MI,Turbigo,45.52655611,8.73650211
+12570,Particelle sospese PM2.5,561,Como v.Cattaneo,CO,Como,45.81504217,9.06697886
+17041,Piombo,583,Bergamo v.Meucci,BG,Bergamo,45.69104328,9.64366092
+6705,Monossido di Carbonio,643,Pavia p.zza Minerva,PV,Pavia,45.18633544,9.14667703
+9996,Ossidi di Azoto,682,Ferrera Erbognone ENI,PV,Ferrera Erbognone,45.11351117,8.87407772
+10290,PM10 (SM2005),706,Lecco v.Sora,LC,Lecco,45.86375372,9.39995481
+6782,Monossido di Carbonio,652,Brescia v.Turati,BS,Brescia,45.53953611,10.23178722
+20684,Ammoniaca,1374,Monza Parco,MB,Monza,45.603072,9.276156
+5750,Ozono,552,Varese v.Vidoletti,VA,Varese,45.83690178,8.80393513
+10547,Particelle sospese PM2.5,1269,Dalmine v.Verdi,BG,Dalmine,45.64971,9.60123469
+5665,Biossido di Zolfo,595,Filago v.Don Milani,BG,Filago,45.63387247,9.55609572
+5738,Ozono,607,Abbadia Cerreto v. Fanfulla,LO,Abbadia Cerreto,45.30950506,9.58580022
+10019,Biossido di Azoto,685,Calusco d'Adda v. Caduti sul Lavoro,BG,Calusco d'Adda,45.69043647,9.48426111
+6925,PM10 (SM2005),571,Bormio v.Monte Braulio,SO,Bormio,46.46952397,10.37543275
+6845,Ossidi di Azoto,659,Odolo v.Praes,BS,Odolo,45.64605175,10.38929672
+9855,Ossidi di Azoto,672,Cornale v.Libertà,PV,Cornale,45.04008561,8.91415717
+10581,Biossido di Azoto,1274,Perledo P.zza della stazione,LC,Perledo,46.01583272,9.28641942
+5586,Biossido di Azoto,583,Bergamo v.Meucci,BG,Bergamo,45.69104328,9.64366092
+20754,Benzene,1322,DarfoBT,BS,Darfo Boario Terme,45.87626097,10.17883506
+10081,Ozono,695,Ponti sul Mincio v.San Martino,MN,Ponti sul Mincio,45.41277633,10.68336214
+5591,Biossido di Azoto,588,Tavernola Bergamasca v.Riva di Sotto,BG,Tavernola Bergamasca,45.71630489,10.04477436
+10456,Particelle sospese PM2.5,1265,Lodi S.Alberto,LO,Lodi,45.30278678,9.49528589
+5658,Biossido di Zolfo,552,Varese v.Vidoletti,VA,Varese,45.83690178,8.80393513
+5827,Monossido di Carbonio,501,Milano v.Marche,MI,Milano,45.49631883,9.19093444
+6428,Ossidi di Azoto,633,Soresina v. Landriani,CR,Soresina,45.28398,9.86340258
+12667,Nikel,703,Schivenoglia v. Malpasso,MN,Schivenoglia,45.01688067,11.07609728
+9856,Ozono,672,Cornale v.Libertà,PV,Cornale,45.04008561,8.91415717
+20570,Ozono,659,Odolo v.Praes,BS,Odolo,45.64605175,10.38929672
+20357,Particelle sospese PM2.5,571,Bormio v.Monte Braulio,SO,Bormio,46.46952397,10.37543275
+6338,Ossidi di Azoto,545,Motta Visconti v. De Gasperi,MI,Motta Visconti,45.28196356,8.98857592
+10258,Ammoniaca,626,Corte de' Cortesi con Cignone v. Villa Strada Forca,CR,Corte de' Cortesi con Cignone,45.27848997,10.00620528
+10083,PM10 (SM2005),695,Ponti sul Mincio v.San Martino,MN,Ponti sul Mincio,45.41277633,10.68336214
+5579,Biossido di Azoto,576,Merate v. Madonna di Loreto,LC,Merate,45.69795956,9.40619194
+20004,BlackCarbon,705,Milano Pascal Città Studi,MI,Milano,45.478347,9.231667
+6248,Ossidi di Azoto,574,Lecco v. Amendola,LC,Lecco,45.85019631,9.39558125
+30165,Ozono,669,Brescia Villaggio Sereno,BS,Brescia,45.51306214,10.19190606
+17126,Benzene,705,Milano Pascal Città Studi,MI,Milano,45.478347,9.231667
+20581,BlackCarbon,705,Milano Pascal Città Studi,MI,Milano,45.478347,9.231667
+12688,Benzo(a)pirene,633,Soresina v. Landriani,CR,Soresina,45.28398,9.86340258
+10396,Particelle sospese PM2.5,674,Monza v.Machiavelli,MB,Monza,45.574117,9.263808
+12610,Piombo,546,Magenta v. F. Turati,MI,Magenta,45.46242074,8.88021388
+5989,Benzene,584,Bergamo v.Garibaldi,BG,Bergamo,45.69568669,9.66126061
+5700,Biossido di Zolfo,571,Bormio v.Monte Braulio,SO,Bormio,46.46952397,10.37543275
+9852,Biossido di Azoto,672,Cornale v.Libertà,PV,Cornale,45.04008561,8.91415717
+6803,Ossidi di Azoto,654,Sarezzo v.Minelli,BS,Sarezzo,45.64962671,10.20509022
+20156,Ammoniaca,642,Pavia v. Folperti,PV,Pavia,45.19468231,9.16464919
+20528,Particelle sospese PM2.5,708,Parona v. della Miseria,PV,Parona,45.28194289,8.75433614
+6324,Ossidi di Azoto,531,Pioltello Limito,MI,Pioltello,45.48363242,9.32736196
+20874,BlackCarbon,643,Pavia p.zza Minerva,PV,Pavia,45.18633544,9.14667703
+20753,PM10 (SM2005),1322,DarfoBT,BS,Darfo Boario Terme,45.87626097,10.17883506
+20523,Ammoniaca,583,Bergamo v.Meucci,BG,Bergamo,45.69104328,9.64366092
+6959,PM10 (SM2005),565,Cantù v.Meucci,CO,Cantù,45.73083728,9.12573936
+10335,PM10 (SM2005),709,Vigevano v.Valletta,PV,Vigevano,45.30361483,8.84480578
+6966,Biossido di Zolfo,669,Brescia Villaggio Sereno,BS,Brescia,45.51306214,10.19190606
+20574,Biossido di Zolfo,545,Motta Visconti v. De Gasperi,MI,Motta Visconti,45.28196356,8.98857592
+9969,Biossido di Azoto,679,Valmadrera v.Pozzi,LC,Valmadrera,45.84221272,9.35166247
+5611,Biossido di Azoto,608,Codogno v.Trento,LO,Codogno,45.15937678,9.69815314
+10458,Biossido di Azoto,1266,Bertonico v.Moro,LO,Bertonico,45.23349689,9.66625758
+12663,Cadmio,681,Moggio Loc. Penscei,LC,Moggio,45.91279097,9.49754261
+11041,Biossido di Zolfo,674,Monza v.Machiavelli,MB,Monza,45.574117,9.263808
+20902,BlackCarbon,664,Mantova p.zza Gramsci,MN,Mantova,45.15175186,10.78141717
+5707,Ozono,551,Arconate v. De Gasperi,MI,Arconate,45.54852147,8.84732669
+6587,Biossido di Zolfo,574,Lecco v. Amendola,LC,Lecco,45.85019631,9.39558125
+17039,Cadmio,583,Bergamo v.Meucci,BG,Bergamo,45.69104328,9.64366092
+20034,Biossido di Azoto,693,Sannazzaro de' Burgondi v.Traversi,PV,Sannazzaro de' Burgondi,45.10277464,8.90418742
+5557,Biossido di Azoto,554,Saronno v.Santuario,VA,Saronno,45.62735705,9.02640138
+12684,Nikel,633,Soresina v. Landriani,CR,Soresina,45.28398,9.86340258
+17285,Ossidi di Azoto,1374,Monza Parco,MB,Monza,45.603072,9.276156
+12600,Benzo(a)pirene,609,Casirate d'Adda v. Cimitero,BG,Casirate d'Adda,45.49822794,9.55624181
+5732,Ozono,573,Colico v.La Madoneta,LC,Colico,46.1381409,9.38468725
+6398,Ossidi di Azoto,554,Saronno v.Santuario,VA,Saronno,45.62735705,9.02640138
+20838,BlackCarbon,584,Bergamo v.Garibaldi,BG,Bergamo,45.69568669,9.66126061
+6877,Biossido di Azoto,664,Mantova p.zza Gramsci,MN,Mantova,45.15175186,10.78141717
+5587,Biossido di Azoto,584,Bergamo v.Garibaldi,BG,Bergamo,45.69568669,9.66126061
+12029,Particelle sospese PM2.5,706,Lecco v.Sora,LC,Lecco,45.86375372,9.39995481
+5812,Monossido di Carbonio,606,San Giuliano Milanese via Milano,MI,San Giuliano Milanese,45.39619767,9.28269897
+9972,Ozono,679,Valmadrera v.Pozzi,LC,Valmadrera,45.84221272,9.35166247
+12696,Nikel,609,Casirate d'Adda v. Cimitero,BG,Casirate d'Adda,45.49822794,9.55624181
+10437,Ozono,1264,Sondrio v.Paribelli,SO,Sondrio,46.16785664,9.87921169
+12593,Benzo(a)pirene,669,Brescia Villaggio Sereno,BS,Brescia,45.51306214,10.19190606
+6320,Ossidi di Azoto,539,Milano v.Liguria,MI,Milano,45.44386047,9.16794489
+6870,Benzene,663,Mantova v.Ariosto,MN,Mantova,45.14526864,10.80333489
+20484,Ammoniaca,705,Milano Pascal Città Studi,MI,Milano,45.478347,9.231667
+12641,Benzo(a)pirene,548,Milano v.Senato,MI,Milano,45.470501,9.19746075
+20020,Ammoniaca,705,Milano Pascal Città Studi,MI,Milano,45.478347,9.231667
+5547,Biossido di Azoto,544,Cormano v. Edison,MI,Cormano,45.547597,9.166983
+6400,Ossidi di Azoto,560,Varese v.Copelli,VA,Varese,45.8169745,8.82024911
+20617,BlackCarbon,677,Cremona Via Fatebenefratelli,CR,Cremona,45.14254358,10.04384767
+17297,Ozono,583,Bergamo v.Meucci,BG,Bergamo,45.69104328,9.64366092
+9835,PM10 (SM2005),664,Mantova p.zza Gramsci,MN,Mantova,45.15175186,10.78141717
+20082,Ammoniaca,573,Colico v.La Madoneta,LC,Colico,46.1381409,9.38468725
+20429,PM10 (SM2005),501,Milano v.Marche,MI,Milano,45.49631883,9.19093444
+5607,Biossido di Azoto,604,Tavazzano con Villavesco v.Cascina Bagnolo,LO,Tavazzano con Villavesco,45.33036444,9.41464375
+5601,Biossido di Azoto,598,San Rocco al Porto v.Matteotti,LO,San Rocco al Porto,45.08199189,9.70079278
+5794,Monossido di Carbonio,584,Bergamo v.Garibaldi,BG,Bergamo,45.69568669,9.66126061
+30166,Benzene,652,Brescia v.Turati,BS,Brescia,45.53953611,10.23178722
+20487,Monossido di Carbonio,695,Ponti sul Mincio v.San Martino,MN,Ponti sul Mincio,45.41277633,10.68336214
+6912,PM10 (SM2005),546,Magenta v. F. Turati,MI,Magenta,45.46242074,8.88021388
+9861,Ozono,673,Voghera v.Pozzoni,PV,Voghera,44.99955481,9.00844961
+20489,Ossidi di Azoto,1800,Brescia S.Polo,BS,Brescia,45.5086668,10.25637025
+10583,Ossidi di Azoto,1274,Perledo P.zza della stazione,LC,Perledo,46.01583272,9.28641942
+20820,Ammoniaca,545,Motta Visconti v. De Gasperi,MI,Motta Visconti,45.28196356,8.98857592
+10457,Ossidi di Azoto,1266,Bertonico v.Moro,LO,Bertonico,45.23349689,9.66625758
+6926,PM10 (SM2005),572,Morbegno v.Cortivacci,SO,Morbegno,46.135486,9.56624
+5520,Biossido di Azoto,517,Turbigo,MI,Turbigo,45.52655611,8.73650211
+6781,Biossido di Azoto,652,Brescia v.Turati,BS,Brescia,45.53953611,10.23178722
+6582,Ozono,561,Como v.Cattaneo,CO,Como,45.81504217,9.06697886
+12676,Benzo(a)pirene,1264,Sondrio v.Paribelli,SO,Sondrio,46.16785664,9.87921169
+10285,Ossidi di Azoto,706,Lecco v.Sora,LC,Lecco,45.86375372,9.39995481
+12613,Nikel,670,Mantova S.Agnese,MN,Mantova,45.16057658,10.79557331
+12020,Ozono,1297,Spinadesco v.Battisti,CR,Spinadesco,45.15047339,9.93059842
+20031,Ammoniaca,693,Sannazzaro de' Burgondi v.Traversi,PV,Sannazzaro de' Burgondi,45.10277464,8.90418742
+20773,Particelle sospese PM2.5,683,Cassano d'Adda 2-v.Milano,MI,Cassano d'Adda,45.52647322,9.515991
+12686,Cadmio,633,Soresina v. Landriani,CR,Soresina,45.28398,9.86340258
+6929,PM10 (SM2005),576,Merate v. Madonna di Loreto,LC,Merate,45.69795956,9.40619194
+6935,PM10 (SM2005),592,Treviglio p.zza Insurrezione,BG,Treviglio,45.51933533,9.59201917
+6872,Biossido di Zolfo,663,Mantova v.Ariosto,MN,Mantova,45.14526864,10.80333489
+5814,Monossido di Carbonio,551,Arconate v. De Gasperi,MI,Arconate,45.54852147,8.84732669
+6411,Monossido di Carbonio,627,Cremona P.zza Cadorna,CR,Cremona,45.13195042,10.01574064
+20751,Ozono,1322,DarfoBT,BS,Darfo Boario Terme,45.87626097,10.17883506
+6057,Benzene,548,Milano v.Senato,MI,Milano,45.470501,9.19746075
+9897,Biossido di Azoto,609,Casirate d'Adda v. Cimitero,BG,Casirate d'Adda,45.49822794,9.55624181
+12608,Arsenico,546,Magenta v. F. Turati,MI,Magenta,45.46242074,8.88021388
+5652,Biossido di Zolfo,558,Busto Arsizio  Accam,VA,Busto Arsizio,45.58289429,8.84216546
+10097,Biossido di Azoto,697,Borgofranco sul Po loc. Bonizzo,MN,Borgofranco sul Po,45.04650286,11.18094889
+6917,PM10 (SM2005),558,Busto Arsizio  Accam,VA,Busto Arsizio,45.58289429,8.84216546
+9797,Benzene,670,Mantova S.Agnese,MN,Mantova,45.16057658,10.79557331
+6958,PM10 (SM2005),569,Sondrio v.Mazzini,SO,Sondrio,46.16797103,9.87014581
+10020,Biossido di Zolfo,685,Calusco d'Adda v. Caduti sul Lavoro,BG,Calusco d'Adda,45.69043647,9.48426111
+5595,Biossido di Azoto,592,Treviglio p.zza Insurrezione,BG,Treviglio,45.51933533,9.59201917
+6374,Ossidi di Azoto,571,Bormio v.Monte Braulio,SO,Bormio,46.46952397,10.37543275
+6952,PM10 (SM2005),654,Sarezzo v.Minelli,BS,Sarezzo,45.64962671,10.20509022
+20759,Biossido di Azoto,1322,DarfoBT,BS,Darfo Boario Terme,45.87626097,10.17883506
+10331,Biossido di Azoto,709,Vigevano v.Valletta,PV,Vigevano,45.30361483,8.84480578
+12623,Benzo(a)pirene,542,Meda v. Gagarin,MB,Meda,45.660992,9.160225
+10028,Particelle sospese PM2.5,685,Calusco d'Adda v. Caduti sul Lavoro,BG,Calusco d'Adda,45.69043647,9.48426111
+20752,Particelle sospese PM2.5,1322,DarfoBT,BS,Darfo Boario Terme,45.87626097,10.17883506
+5952,Ozono,626,Corte de' Cortesi con Cignone v. Villa Strada Forca,CR,Corte de' Cortesi con Cignone,45.27848997,10.00620528
+6880,Biossido di Azoto,665,Viadana v. Cavalli,MN,Viadana,44.92469933,10.51750417
+10339,PM10 (SM2005),629,Crema v.XI febbraio,CR,Crema,45.36631075,9.70395139
+5847,Monossido di Carbonio,558,Busto Arsizio  Accam,VA,Busto Arsizio,45.58289429,8.84216546
+20032,Ossidi di Azoto,693,Sannazzaro de' Burgondi v.Traversi,PV,Sannazzaro de' Burgondi,45.10277464,8.90418742
+10176,Particelle sospese PM2.5,703,Schivenoglia v. Malpasso,MN,Schivenoglia,45.01688067,11.07609728
+5598,Biossido di Azoto,595,Filago v.Don Milani,BG,Filago,45.63387247,9.55609572
+17286,Biossido di Azoto,1374,Monza Parco,MB,Monza,45.603072,9.276156
+6280,Ossidi di Azoto,604,Tavazzano con Villavesco v.Cascina Bagnolo,LO,Tavazzano con Villavesco,45.33036444,9.41464375
+20358,Particelle sospese PM2.5,504,Sesto San Giovanni v. Cesare da Sesto,MI,Sesto San Giovanni,45.53476819,9.23610903
+10438,Particelle sospese PM2.5,1264,Sondrio v.Paribelli,SO,Sondrio,46.16785664,9.87921169
+12577,Particelle sospese PM2.5,627,Cremona P.zza Cadorna,CR,Cremona,45.13195042,10.01574064
+9995,Monossido di Carbonio,682,Ferrera Erbognone ENI,PV,Ferrera Erbognone,45.11351117,8.87407772
+6274,Ossidi di Azoto,598,San Rocco al Porto v.Matteotti,LO,San Rocco al Porto,45.08199189,9.70079278
+9917,Ossidi di Azoto,663,Mantova v.Ariosto,MN,Mantova,45.14526864,10.80333489
+5549,Biossido di Azoto,546,Magenta v. F. Turati,MI,Magenta,45.46242074,8.88021388
+5739,Ozono,571,Bormio v.Monte Braulio,SO,Bormio,46.46952397,10.37543275
+10580,Biossido di Zolfo,627,Cremona P.zza Cadorna,CR,Cremona,45.13195042,10.01574064
+6910,PM10 (SM2005),542,Meda v. Gagarin,MB,Meda,45.660992,9.160225
+10333,Ossidi di Azoto,709,Vigevano v.Valletta,PV,Vigevano,45.30361483,8.84480578
+10507,Biossido di Azoto,1269,Dalmine v.Verdi,BG,Dalmine,45.64971,9.60123469
+10168,Biossido di Zolfo,703,Schivenoglia v. Malpasso,MN,Schivenoglia,45.01688067,11.07609728
+9740,PM10 (SM2005),604,Tavazzano con Villavesco v.Cascina Bagnolo,LO,Tavazzano con Villavesco,45.33036444,9.41464375
+12670,Piombo,703,Schivenoglia v. Malpasso,MN,Schivenoglia,45.01688067,11.07609728
+10506,Benzene,1269,Dalmine v.Verdi,BG,Dalmine,45.64971,9.60123469
+5805,Monossido di Carbonio,574,Lecco v. Amendola,LC,Lecco,45.85019631,9.39558125
+10282,Ozono,705,Milano Pascal Città Studi,MI,Milano,45.478347,9.231667
+5790,Monossido di Carbonio,592,Treviglio p.zza Insurrezione,BG,Treviglio,45.51933533,9.59201917
+20493,Ossidi di Azoto,1801,Brescia v.Tartaglia,BS,Brescia,45.54264789,10.21120522
+6761,Biossido di Azoto,649,Brescia v.Broletto,BS,Brescia,45.54006456,10.22281989
+6908,PM10 (SM2005),531,Pioltello Limito,MI,Pioltello,45.48363242,9.32736196
+9993,Biossido di Azoto,682,Ferrera Erbognone ENI,PV,Ferrera Erbognone,45.11351117,8.87407772
+20157,Particelle sospese PM2.5,642,Pavia v. Folperti,PV,Pavia,45.19468231,9.16464919
+9978,Particelle sospese PM2.5,609,Casirate d'Adda v. Cimitero,BG,Casirate d'Adda,45.49822794,9.55624181
+17293,PM10 (SM2005),1264,Sondrio v.Paribelli,SO,Sondrio,46.16785664,9.87921169
+6931,PM10 (SM2005),583,Bergamo v.Meucci,BG,Bergamo,45.69104328,9.64366092
+17288,Ozono,1374,Monza Parco,MB,Monza,45.603072,9.276156
+20491,Biossido di Azoto,1800,Brescia S.Polo,BS,Brescia,45.5086668,10.25637025
+10018,Benzene,685,Calusco d'Adda v. Caduti sul Lavoro,BG,Calusco d'Adda,45.69043647,9.48426111
+12695,Piombo,1264,Sondrio v.Paribelli,SO,Sondrio,46.16785664,9.87921169
+20495,Biossido di Azoto,1801,Brescia v.Tartaglia,BS,Brescia,45.54264789,10.21120522
+17040,Nikel,583,Bergamo v.Meucci,BG,Bergamo,45.69104328,9.64366092
+20401,Benzene,571,Bormio v.Monte Braulio,SO,Bormio,46.46952397,10.37543275
+9739,PM10 (SM2005),608,Codogno v.Trento,LO,Codogno,45.15937678,9.69815314
+10043,PM10 (SM2005),687,Ferno v.Di Dio,VA,Ferno,45.61924753,8.75697656
+6813,Biossido di Azoto,656,Gambara v.Parma,BS,Gambara,45.24955194,10.29913
+10171,Ozono,703,Schivenoglia v. Malpasso,MN,Schivenoglia,45.01688067,11.07609728
+10283,Particelle sospese PM2.5,705,Milano Pascal Città Studi,MI,Milano,45.478347,9.231667
+12016,Ossidi di Azoto,1297,Spinadesco v.Battisti,CR,Spinadesco,45.15047339,9.93059842
+5693,Biossido di Zolfo,600,Lodi v.Vignati,LO,Lodi,45.30601628,9.48527511
+9877,Biossido di Azoto,674,Monza v.Machiavelli,MB,Monza,45.574117,9.263808
+20465,BlackCarbon,548,Milano v.Senato,MI,Milano,45.470501,9.19746075
+5564,Biossido di Azoto,561,Como v.Cattaneo,CO,Como,45.81504217,9.06697886
+12640,Piombo,548,Milano v.Senato,MI,Milano,45.470501,9.19746075
+10491,PM10 (SM2005),681,Moggio Loc. Penscei,LC,Moggio,45.91279097,9.49754261
+6366,Ossidi di Azoto,528,Milano Verziere,MI,Milano,45.46334886,9.19532511
+20826,Ozono,9157,Erba - Buccinigo,CO,Erba,45.80439096,9.20901588
+9882,Ozono,674,Monza v.Machiavelli,MB,Monza,45.574117,9.263808
+10041,Ozono,687,Ferno v.Di Dio,VA,Ferno,45.61924753,8.75697656
+6871,Biossido di Azoto,663,Mantova v.Ariosto,MN,Mantova,45.14526864,10.80333489
+12584,PM10 (SM2005),627,Cremona P.zza Cadorna,CR,Cremona,45.13195042,10.01574064
+6665,Ozono,565,Cantù v.Meucci,CO,Cantù,45.73083728,9.12573936
+20041,Ozono,670,Mantova S.Agnese,MN,Mantova,45.16057658,10.79557331
+6918,PM10 (SM2005),560,Varese v.Copelli,VA,Varese,45.8169745,8.82024911
+5809,Monossido di Carbonio,600,Lodi v.Vignati,LO,Lodi,45.30601628,9.48527511
+17037,Benzo(a)pirene,583,Bergamo v.Meucci,BG,Bergamo,45.69104328,9.64366092
+10326,Biossido di Azoto,708,Parona v. della Miseria,PV,Parona,45.28194289,8.75433614
+6268,Ossidi di Azoto,600,Lodi v.Vignati,LO,Lodi,45.30601628,9.48527511
+6879,Monossido di Carbonio,664,Mantova p.zza Gramsci,MN,Mantova,45.15175186,10.78141717
+5835,Monossido di Carbonio,504,Sesto San Giovanni v. Cesare da Sesto,MI,Sesto San Giovanni,45.53476819,9.23610903
+12028,PM10 (SM2005),642,Pavia v. Folperti,PV,Pavia,45.19468231,9.16464919
+9961,PM10 (SM2005),669,Brescia Villaggio Sereno,BS,Brescia,45.51306214,10.19190606
+12597,Cadmio,609,Casirate d'Adda v. Cimitero,BG,Casirate d'Adda,45.49822794,9.55624181
+6232,Ossidi di Azoto,561,Como v.Cattaneo,CO,Como,45.81504217,9.06697886
+6927,PM10 (SM2005),574,Lecco v. Amendola,LC,Lecco,45.85019631,9.39558125
+9859,Monossido di Carbonio,673,Voghera v.Pozzoni,PV,Voghera,44.99955481,9.00844961
+5555,Biossido di Azoto,552,Varese v.Vidoletti,VA,Varese,45.83690178,8.80393513
+20442,Monossido di Azoto,681,Moggio Loc. Penscei,LC,Moggio,45.91279097,9.49754261
+12668,Arsenico,703,Schivenoglia v. Malpasso,MN,Schivenoglia,45.01688067,11.07609728
+20155,PM10 (SM2005),690,Mezzana Bigli loc. Casoni,PV,Mezzana Bigli,45.06966728,8.86890217
+10463,Ozono,1266,Bertonico v.Moro,LO,Bertonico,45.23349689,9.66625758
+17159,Particelle sospese PM2.5,633,Soresina v. Landriani,CR,Soresina,45.28398,9.86340258
+5676,Biossido di Zolfo,561,Como v.Cattaneo,CO,Como,45.81504217,9.06697886
+9930,Ossidi di Azoto,677,Cremona Via Fatebenefratelli,CR,Cremona,45.14254358,10.04384767
+10259,Benzene,569,Sondrio v.Mazzini,SO,Sondrio,46.16797103,9.87014581
+5577,Biossido di Azoto,574,Lecco v. Amendola,LC,Lecco,45.85019631,9.39558125
+6288,Ossidi di Azoto,551,Arconate v. De Gasperi,MI,Arconate,45.54852147,8.84732669
+5610,Biossido di Azoto,607,Abbadia Cerreto v. Fanfulla,LO,Abbadia Cerreto,45.30950506,9.58580022
+5507,Biossido di Azoto,504,Sesto San Giovanni v. Cesare da Sesto,MI,Sesto San Giovanni,45.53476819,9.23610903
+12611,Benzo(a)pirene,546,Magenta v. F. Turati,MI,Magenta,45.46242074,8.88021388
+20862,BlackCarbon,569,Sondrio v.Mazzini,SO,Sondrio,46.16797103,9.87014581
+12694,Benzo(a)pirene,560,Varese v.Copelli,VA,Varese,45.8169745,8.82024911
+12590,Cadmio,669,Brescia Villaggio Sereno,BS,Brescia,45.51306214,10.19190606
+9873,Particelle sospese PM2.5,554,Saronno v.Santuario,VA,Saronno,45.62735705,9.02640138
+10286,Biossido di Azoto,706,Lecco v.Sora,LC,Lecco,45.86375372,9.39995481
+12674,Arsenico,1264,Sondrio v.Paribelli,SO,Sondrio,46.16785664,9.87921169
+20565,PM10 (SM2005),584,Bergamo v.Garibaldi,BG,Bergamo,45.69568669,9.66126061
+6252,Ossidi di Azoto,576,Merate v. Madonna di Loreto,LC,Merate,45.69795956,9.40619194
+10452,Biossido di Azoto,1265,Lodi S.Alberto,LO,Lodi,45.30278678,9.49528589
+20575,Biossido di Zolfo,681,Moggio Loc. Penscei,LC,Moggio,45.91279097,9.49754261
+9872,PM10 (SM2005),673,Voghera v.Pozzoni,PV,Voghera,44.99955481,9.00844961
+6330,Ossidi di Azoto,542,Meda v. Gagarin,MB,Meda,45.660992,9.160225
+12574,Particelle sospese PM2.5,693,Sannazzaro de' Burgondi v.Traversi,PV,Sannazzaro de' Burgondi,45.10277464,8.90418742
+10037,Ossidi di Azoto,687,Ferno v.Di Dio,VA,Ferno,45.61924753,8.75697656
+6346,Ossidi di Azoto,514,Rho via Buon Gesù,MI,Rho,45.52342919,9.0446025
+5710,Ozono,544,Cormano v. Edison,MI,Cormano,45.547597,9.166983
+6356,Ossidi di Azoto,504,Sesto San Giovanni v. Cesare da Sesto,MI,Sesto San Giovanni,45.53476819,9.23610903
+5545,Biossido di Azoto,542,Meda v. Gagarin,MB,Meda,45.660992,9.160225
+6212,Ossidi di Azoto,596,Osio Sotto v.per Levate,BG,Osio Sotto,45.62055568,9.61173782
+20758,Ossidi di Azoto,1322,DarfoBT,BS,Darfo Boario Terme,45.87626097,10.17883506
+6955,PM10 (SM2005),663,Mantova v.Ariosto,MN,Mantova,45.14526864,10.80333489
+12621,Cadmio,542,Meda v. Gagarin,MB,Meda,45.660992,9.160225
+5953,Biossido di Azoto,627,Cremona P.zza Cadorna,CR,Cremona,45.13195042,10.01574064
+10483,PM10 (SM2005),1265,Lodi S.Alberto,LO,Lodi,45.30278678,9.49528589
+10079,Biossido di Azoto,695,Ponti sul Mincio v.San Martino,MN,Ponti sul Mincio,45.41277633,10.68336214
+5551,Biossido di Azoto,548,Milano v.Senato,MI,Milano,45.470501,9.19746075
+10329,Ossidi di Azoto,708,Parona v. della Miseria,PV,Parona,45.28194289,8.75433614
+9860,Ossidi di Azoto,673,Voghera v.Pozzoni,PV,Voghera,44.99955481,9.00844961
+5842,Monossido di Carbonio,571,Bormio v.Monte Braulio,SO,Bormio,46.46952397,10.37543275
+20529,Particelle sospese PM2.5,501,Milano v.Marche,MI,Milano,45.49631883,9.19093444
+6402,Ossidi di Azoto,552,Varese v.Vidoletti,VA,Varese,45.83690178,8.80393513
+5725,Ozono,528,Milano Verziere,MI,Milano,45.46334886,9.19532511
+6408,Ossidi di Azoto,626,Corte de' Cortesi con Cignone v. Villa Strada Forca,CR,Corte de' Cortesi con Cignone,45.27848997,10.00620528
+6264,Ossidi di Azoto,608,Codogno v.Trento,LO,Codogno,45.15937678,9.69815314
+12664,Piombo,681,Moggio Loc. Penscei,LC,Moggio,45.91279097,9.49754261
+10017,Ossidi di Azoto,685,Calusco d'Adda v. Caduti sul Lavoro,BG,Calusco d'Adda,45.69043647,9.48426111
+20564,Particelle sospese PM2.5,1801,Brescia v.Tartaglia,BS,Brescia,45.54264789,10.21120522
+6818,Ozono,656,Gambara v.Parma,BS,Gambara,45.24955194,10.29913
+10587,Ammoniaca,1266,Bertonico v.Moro,LO,Bertonico,45.23349689,9.66625758
+10384,Benzene,693,Sannazzaro de' Burgondi v.Traversi,PV,Sannazzaro de' Burgondi,45.10277464,8.90418742
+20934,BlackCarbon,542,Meda v. Gagarin,MB,Meda,45.660992,9.160225
+5576,Biossido di Azoto,573,Colico v.La Madoneta,LC,Colico,46.1381409,9.38468725
+5721,Ozono,545,Motta Visconti v. De Gasperi,MI,Motta Visconti,45.28196356,8.98857592
+10103,PM10 (SM2005),697,Borgofranco sul Po loc. Bonizzo,MN,Borgofranco sul Po,45.04650286,11.18094889
+9920,Ossidi di Azoto,665,Viadana v. Cavalli,MN,Viadana,44.92469933,10.51750417
+10016,Biossido di Zolfo,664,Mantova p.zza Gramsci,MN,Mantova,45.15175186,10.78141717
+6706,Ossidi di Azoto,643,Pavia p.zza Minerva,PV,Pavia,45.18633544,9.14667703
+12626,Cadmio,705,Milano Pascal Città Studi,MI,Milano,45.478347,9.231667
+5534,Biossido di Azoto,531,Pioltello Limito,MI,Pioltello,45.48363242,9.32736196
+6962,PM10 (SM2005),595,Filago v.Don Milani,BG,Filago,45.63387247,9.55609572
+6701,Biossido di Azoto,643,Pavia p.zza Minerva,PV,Pavia,45.18633544,9.14667703
+10431,Ossidi di Azoto,1264,Sondrio v.Paribelli,SO,Sondrio,46.16785664,9.87921169
+12619,Nikel,542,Meda v. Gagarin,MB,Meda,45.660992,9.160225
+9971,Monossido di Carbonio,679,Valmadrera v.Pozzi,LC,Valmadrera,45.84221272,9.35166247
+9997,Ozono,682,Ferrera Erbognone ENI,PV,Ferrera Erbognone,45.11351117,8.87407772
+10586,Particelle sospese PM2.5,677,Cremona Via Fatebenefratelli,CR,Cremona,45.14254358,10.04384767
+6412,Ossidi di Azoto,627,Cremona P.zza Cadorna,CR,Cremona,45.13195042,10.01574064
+12692,Cadmio,560,Varese v.Copelli,VA,Varese,45.8169745,8.82024911
+6884,Ozono,665,Viadana v. Cavalli,MN,Viadana,44.92469933,10.51750417
+12589,Arsenico,669,Brescia Villaggio Sereno,BS,Brescia,45.51306214,10.19190606
+10013,Particelle sospese PM2.5,576,Merate v. Madonna di Loreto,LC,Merate,45.69795956,9.40619194
+6936,PM10 (SM2005),596,Osio Sotto v.per Levate,BG,Osio Sotto,45.62055568,9.61173782
+6956,PM10 (SM2005),528,Milano Verziere,MI,Milano,45.46334886,9.19532511
+10038,Biossido di Azoto,687,Ferno v.Di Dio,VA,Ferno,45.61924753,8.75697656
+9985,Particelle sospese PM2.5,600,Lodi v.Vignati,LO,Lodi,45.30601628,9.48527511
+6364,Ossidi di Azoto,517,Turbigo,MI,Turbigo,45.52655611,8.73650211
+10484,PM10 (SM2005),1266,Bertonico v.Moro,LO,Bertonico,45.23349689,9.66625758
+5960,Ozono,629,Crema v.XI febbraio,CR,Crema,45.36631075,9.70395139
+9983,Particelle sospese PM2.5,672,Cornale v.Libertà,PV,Cornale,45.04008561,8.91415717
+6831,Ossidi di Azoto,657,Lonato del Garda v.del Marchesino,BS,Lonato del Garda,45.46375819,10.48078183
+9890,PM10 (SM2005),674,Monza v.Machiavelli,MB,Monza,45.574117,9.263808
+6869,Benzene,642,Pavia v. Folperti,PV,Pavia,45.19468231,9.16464919
+6954,PM10 (SM2005),661,Rezzato v.De Gasperi,BS,Rezzato,45.51571417,10.33624003
+10197,Particelle sospese PM2.5,697,Borgofranco sul Po loc. Bonizzo,MN,Borgofranco sul Po,45.04650286,11.18094889
+6685,Biossido di Azoto,642,Pavia v. Folperti,PV,Pavia,45.19468231,9.16464919
+10301,Benzene,574,Lecco v. Amendola,LC,Lecco,45.85019631,9.39558125
+6386,Ossidi di Azoto,558,Busto Arsizio  Accam,VA,Busto Arsizio,45.58289429,8.84216546
+20497,Benzene,1801,Brescia v.Tartaglia,BS,Brescia,45.54264789,10.21120522
+12625,Arsenico,705,Milano Pascal Città Studi,MI,Milano,45.478347,9.231667
+10165,Ossidi di Azoto,703,Schivenoglia v. Malpasso,MN,Schivenoglia,45.01688067,11.07609728
+10432,Biossido di Azoto,1264,Sondrio v.Paribelli,SO,Sondrio,46.16785664,9.87921169
+5704,Biossido di Zolfo,569,Sondrio v.Mazzini,SO,Sondrio,46.16797103,9.87014581
+10095,Ossidi di Azoto,697,Borgofranco sul Po loc. Bonizzo,MN,Borgofranco sul Po,45.04650286,11.18094889
+12691,Arsenico,560,Varese v.Copelli,VA,Varese,45.8169745,8.82024911
+5950,Biossido di Azoto,626,Corte de' Cortesi con Cignone v. Villa Strada Forca,CR,Corte de' Cortesi con Cignone,45.27848997,10.00620528
+6260,Ossidi di Azoto,607,Abbadia Cerreto v. Fanfulla,LO,Abbadia Cerreto,45.30950506,9.58580022
+6208,Ossidi di Azoto,595,Filago v.Don Milani,BG,Filago,45.63387247,9.55609572
+6864,Ossidi di Azoto,661,Rezzato v.De Gasperi,BS,Rezzato,45.51571417,10.33624003
+5742,Ozono,572,Morbegno v.Cortivacci,SO,Morbegno,46.135486,9.56624
+10584,Ozono,1274,Perledo P.zza della stazione,LC,Perledo,46.01583272,9.28641942
+10320,PM10 (SM2005),548,Milano v.Senato,MI,Milano,45.470501,9.19746075
+10025,Ozono,685,Calusco d'Adda v. Caduti sul Lavoro,BG,Calusco d'Adda,45.69043647,9.48426111
+9965,PM10 (SM2005),609,Casirate d'Adda v. Cimitero,BG,Casirate d'Adda,45.49822794,9.55624181
+10343,PM10 (SM2005),708,Parona v. della Miseria,PV,Parona,45.28194289,8.75433614
+12669,Cadmio,703,Schivenoglia v. Malpasso,MN,Schivenoglia,45.01688067,11.07609728
+10035,Benzene,672,Cornale v.Libertà,PV,Cornale,45.04008561,8.91415717
+29041,Benzene,561,Como v.Cattaneo,CO,Como,45.81504217,9.06697886
+20772,PM10 (SM2005),683,Cassano d'Adda 2-v.Milano,MI,Cassano d'Adda,45.52647322,9.515991
+9857,Biossido di Azoto,673,Voghera v.Pozzoni,PV,Voghera,44.99955481,9.00844961
+6804,Ozono,654,Sarezzo v.Minelli,BS,Sarezzo,45.64962671,10.20509022
+5561,Biossido di Azoto,558,Busto Arsizio  Accam,VA,Busto Arsizio,45.58289429,8.84216546
+12687,Piombo,633,Soresina v. Landriani,CR,Soresina,45.28398,9.86340258
+12617,Benzo(a)pirene,670,Mantova S.Agnese,MN,Mantova,45.16057658,10.79557331
+10454,Ozono,1265,Lodi S.Alberto,LO,Lodi,45.30278678,9.49528589
+5853,Monossido di Carbonio,560,Varese v.Copelli,VA,Varese,45.8169745,8.82024911
+9896,Ossidi di Azoto,609,Casirate d'Adda v. Cimitero,BG,Casirate d'Adda,45.49822794,9.55624181
+6798,Biossido di Azoto,654,Sarezzo v.Minelli,BS,Sarezzo,45.64962671,10.20509022
+5572,Biossido di Azoto,569,Sondrio v.Mazzini,SO,Sondrio,46.16797103,9.87014581
+6328,Ossidi di Azoto,501,Milano v.Marche,MI,Milano,45.49631883,9.19093444
+12693,Piombo,560,Varese v.Copelli,VA,Varese,45.8169745,8.82024911
+12638,Arsenico,548,Milano v.Senato,MI,Milano,45.470501,9.19746075
+6784,Ossidi di Azoto,652,Brescia v.Turati,BS,Brescia,45.53953611,10.23178722
+5958,Biossido di Azoto,629,Crema v.XI febbraio,CR,Crema,45.36631075,9.70395139
+10347,Particelle sospese PM2.5,670,Mantova S.Agnese,MN,Mantova,45.16057658,10.79557331
+6686,Biossido di Zolfo,642,Pavia v. Folperti,PV,Pavia,45.19468231,9.16464919
+12662,Arsenico,681,Moggio Loc. Penscei,LC,Moggio,45.91279097,9.49754261
+6419,Ossidi di Azoto,629,Crema v.XI febbraio,CR,Crema,45.36631075,9.70395139
+12591,Piombo,669,Brescia Villaggio Sereno,BS,Brescia,45.51306214,10.19190606
+10451,Ossidi di Azoto,1265,Lodi S.Alberto,LO,Lodi,45.30278678,9.49528589
+5798,Monossido di Carbonio,561,Como v.Cattaneo,CO,Como,45.81504217,9.06697886
+10511,Monossido di Carbonio,1269,Dalmine v.Verdi,BG,Dalmine,45.64971,9.60123469
+5717,Ozono,531,Pioltello Limito,MI,Pioltello,45.48363242,9.32736196
+5574,Biossido di Azoto,571,Bormio v.Monte Braulio,SO,Bormio,46.46952397,10.37543275
+10280,Biossido di Zolfo,705,Milano Pascal Città Studi,MI,Milano,45.478347,9.231667
+5834,Monossido di Carbonio,548,Milano v.Senato,MI,Milano,45.470501,9.19746075
+9976,PM10 (SM2005),679,Valmadrera v.Pozzi,LC,Valmadrera,45.84221272,9.35166247
+10001,Ossidi di Azoto,683,Cassano d'Adda 2-v.Milano,MI,Cassano d'Adda,45.52647322,9.515991
+12665,Benzo(a)pirene,681,Moggio Loc. Penscei,LC,Moggio,45.91279097,9.49754261
+6919,PM10 (SM2005),561,Como v.Cattaneo,CO,Como,45.81504217,9.06697886
+10027,PM10 (SM2005),685,Calusco d'Adda v. Caduti sul Lavoro,BG,Calusco d'Adda,45.69043647,9.48426111
+17162,Particelle sospese PM2.5,681,Moggio Loc. Penscei,LC,Moggio,45.91279097,9.49754261
+10505,Ossidi di Azoto,1269,Dalmine v.Verdi,BG,Dalmine,45.64971,9.60123469
+5542,Biossido di Azoto,539,Milano v.Liguria,MI,Milano,45.44386047,9.16794489
+5548,Biossido di Azoto,545,Motta Visconti v. De Gasperi,MI,Motta Visconti,45.28196356,8.98857592
+20829,Ossidi di Azoto,9157,Erba - Buccinigo,CO,Erba,45.80439096,9.20901588
+6326,Ossidi di Azoto,546,Magenta v. F. Turati,MI,Magenta,45.46242074,8.88021388
+9798,Monossido di Carbonio,670,Mantova S.Agnese,MN,Mantova,45.16057658,10.79557331
+9875,Ossidi di Azoto,674,Monza v.Machiavelli,MB,Monza,45.574117,9.263808
+6945,PM10 (SM2005),633,Soresina v. Landriani,CR,Soresina,45.28398,9.86340258
+6826,Biossido di Azoto,657,Lonato del Garda v.del Marchesino,BS,Lonato del Garda,45.46375819,10.48078183
+10085,Particelle sospese PM2.5,695,Ponti sul Mincio v.San Martino,MN,Ponti sul Mincio,45.41277633,10.68336214
+5609,Biossido di Azoto,606,San Giuliano Milanese via Milano,MI,San Giuliano Milanese,45.39619767,9.28269897
+5504,Biossido di Azoto,501,Milano v.Marche,MI,Milano,45.49631883,9.19093444
+6690,Ossidi di Azoto,642,Pavia v. Folperti,PV,Pavia,45.19468231,9.16464919
+6300,Ossidi di Azoto,544,Cormano v. Edison,MI,Cormano,45.547597,9.166983
+12022,Particelle sospese PM2.5,1297,Spinadesco v.Battisti,CR,Spinadesco,45.15047339,9.93059842
+10327,Biossido di Zolfo,708,Parona v. della Miseria,PV,Parona,45.28194289,8.75433614
+12629,Benzo(a)pirene,705,Milano Pascal Città Studi,MI,Milano,45.478347,9.231667
+9804,Ossidi di Azoto,670,Mantova S.Agnese,MN,Mantova,45.16057658,10.79557331
+5575,Biossido di Azoto,572,Morbegno v.Cortivacci,SO,Morbegno,46.135486,9.56624
+5568,Biossido di Azoto,565,Cantù v.Meucci,CO,Cantù,45.73083728,9.12573936
+20104,Particelle sospese PM2.5,592,Treviglio p.zza Insurrezione,BG,Treviglio,45.51933533,9.59201917
+20154,Ozono,690,Mezzana Bigli loc. Casoni,PV,Mezzana Bigli,45.06966728,8.86890217
+9854,Monossido di Carbonio,672,Cornale v.Libertà,PV,Cornale,45.04008561,8.91415717
+6005,Benzene,627,Cremona P.zza Cadorna,CR,Cremona,45.13195042,10.01574064
+20591,BlackCarbon,574,Lecco v. Amendola,LC,Lecco,45.85019631,9.39558125
+9831,PM10 (SM2005),670,Mantova S.Agnese,MN,Mantova,45.16057658,10.79557331
+20924,BlackCarbon,560,Varese v.Copelli,VA,Varese,45.8169745,8.82024911
+6230,Ossidi di Azoto,565,Cantù v.Meucci,CO,Cantù,45.73083728,9.12573936
+30162,Ossidi di Azoto,669,Brescia Villaggio Sereno,BS,Brescia,45.51306214,10.19190606
+20566,PM10 (SM2005),626,Corte de' Cortesi con Cignone v. Villa Strada Forca,CR,Corte de' Cortesi con Cignone,45.27848997,10.00620528
+5532,Biossido di Azoto,529,Cinisello Balsamo v.Lincoln,MI,Cinisello Balsamo,45.55232831,9.22776572
+12685,Arsenico,633,Soresina v. Landriani,CR,Soresina,45.28398,9.86340258
+12639,Cadmio,548,Milano v.Senato,MI,Milano,45.470501,9.19746075
+20496,PM10 (SM2005),1801,Brescia v.Tartaglia,BS,Brescia,45.54264789,10.21120522
+17290,PM10 (SM2005),1374,Monza Parco,MB,Monza,45.603072,9.276156
+17038,Arsenico,583,Bergamo v.Meucci,BG,Bergamo,45.69104328,9.64366092
+10399,Particelle sospese PM2.5,583,Bergamo v.Meucci,BG,Bergamo,45.69104328,9.64366092
+5603,Biossido di Azoto,600,Lodi v.Vignati,LO,Lodi,45.30601628,9.48527511
+6953,PM10 (SM2005),659,Odolo v.Praes,BS,Odolo,45.64605175,10.38929672
+20569,Monossido di Carbonio,1801,Brescia v.Tartaglia,BS,Brescia,45.54264789,10.21120522
+12596,Arsenico,609,Casirate d'Adda v. Cimitero,BG,Casirate d'Adda,45.49822794,9.55624181
+6766,Ossidi di Azoto,649,Brescia v.Broletto,BS,Brescia,45.54006456,10.22281989
+20571,PM10 (SM2005),665,Viadana v. Cavalli,MN,Viadana,44.92469933,10.51750417
+12675,Cadmio,1264,Sondrio v.Paribelli,SO,Sondrio,46.16785664,9.87921169
+6947,PM10 (SM2005),643,Pavia p.zza Minerva,PV,Pavia,45.18633544,9.14667703
+20443,Biossido di Azoto,681,Moggio Loc. Penscei,LC,Moggio,45.91279097,9.49754261
+9927,PM10 (SM2005),677,Cremona Via Fatebenefratelli,CR,Cremona,45.14254358,10.04384767
+17295,Ozono,558,Busto Arsizio  Accam,VA,Busto Arsizio,45.58289429,8.84216546
+12588,Nikel,669,Brescia Villaggio Sereno,BS,Brescia,45.51306214,10.19190606
+12017,Biossido di Azoto,1297,Spinadesco v.Battisti,CR,Spinadesco,45.15047339,9.93059842
+12620,Arsenico,542,Meda v. Gagarin,MB,Meda,45.660992,9.160225
+5517,Biossido di Azoto,514,Rho via Buon Gesù,MI,Rho,45.52342919,9.0446025
+5845,Monossido di Carbonio,569,Sondrio v.Mazzini,SO,Sondrio,46.16797103,9.87014581
+10036,Benzene,673,Voghera v.Pozzoni,PV,Voghera,44.99955481,9.00844961
+5554,Biossido di Azoto,551,Arconate v. De Gasperi,MI,Arconate,45.54852147,8.84732669
+10167,Biossido di Azoto,703,Schivenoglia v. Malpasso,MN,Schivenoglia,45.01688067,11.07609728
+17122,Particelle sospese PM2.5,548,Milano v.Senato,MI,Milano,45.470501,9.19746075
+12671,Benzo(a)pirene,703,Schivenoglia v. Malpasso,MN,Schivenoglia,45.01688067,11.07609728
+10072,PM10 (SM2005),693,Sannazzaro de' Burgondi v.Traversi,PV,Sannazzaro de' Burgondi,45.10277464,8.90418742
+30158,Particelle sospese PM2.5,649,Brescia v.Broletto,BS,Brescia,45.54006456,10.22281989
+6220,Ossidi di Azoto,584,Bergamo v.Garibaldi,BG,Bergamo,45.69568669,9.66126061
+10352,PM10 (SM2005),517,Turbigo,MI,Turbigo,45.52655611,8.73650211
+12622,Piombo,542,Meda v. Gagarin,MB,Meda,45.660992,9.160225
+12616,Piombo,670,Mantova S.Agnese,MN,Mantova,45.16057658,10.79557331
+5965,Biossido di Azoto,633,Soresina v. Landriani,CR,Soresina,45.28398,9.86340258
+12609,Cadmio,546,Magenta v. F. Turati,MI,Magenta,45.46242074,8.88021388
+9928,Biossido di Azoto,677,Cremona Via Fatebenefratelli,CR,Cremona,45.14254358,10.04384767
+12661,Nikel,681,Moggio Loc. Penscei,LC,Moggio,45.91279097,9.49754261
+12690,Nikel,560,Varese v.Copelli,VA,Varese,45.8169745,8.82024911
+20828,Biossido di Azoto,9157,Erba - Buccinigo,CO,Erba,45.80439096,9.20901588
+9968,Ossidi di Azoto,679,Valmadrera v.Pozzi,LC,Valmadrera,45.84221272,9.35166247
+9772,Benzene,600,Lodi v.Vignati,LO,Lodi,45.30601628,9.48527511
+6246,Ossidi di Azoto,573,Colico v.La Madoneta,LC,Colico,46.1381409,9.38468725
+12614,Arsenico,670,Mantova S.Agnese,MN,Mantova,45.16057658,10.79557331
+6904,Ozono,596,Osio Sotto v.per Levate,BG,Osio Sotto,45.62055568,9.61173782
+6832,Ozono,657,Lonato del Garda v.del Marchesino,BS,Lonato del Garda,45.46375819,10.48078183
+9925,Ozono,677,Cremona Via Fatebenefratelli,CR,Cremona,45.14254358,10.04384767
+5698,Biossido di Zolfo,604,Tavazzano con Villavesco v.Cascina Bagnolo,LO,Tavazzano con Villavesco,45.33036444,9.41464375
+12673,Nikel,1264,Sondrio v.Paribelli,SO,Sondrio,46.16785664,9.87921169
+10078,Ossidi di Azoto,695,Ponti sul Mincio v.San Martino,MN,Ponti sul Mincio,45.41277633,10.68336214
+6228,Ossidi di Azoto,588,Tavernola Bergamasca v.Riva di Sotto,BG,Tavernola Bergamasca,45.71630489,10.04477436
+20492,Particelle sospese PM2.5,1800,Brescia S.Polo,BS,Brescia,45.5086668,10.25637025
+20455,BlackCarbon,501,Milano v.Marche,MI,Milano,45.49631883,9.19093444
+5749,Ozono,554,Saronno v.Santuario,VA,Saronno,45.62735705,9.02640138
+12607,Nikel,546,Magenta v. F. Turati,MI,Magenta,45.46242074,8.88021388
+10278,Ossidi di Azoto,705,Milano Pascal Città Studi,MI,Milano,45.478347,9.231667
+12624,Nikel,705,Milano Pascal Città Studi,MI,Milano,45.478347,9.231667
+17042,Ammoniaca,677,Cremona Via Fatebenefratelli,CR,Cremona,45.14254358,10.04384767
+10288,Ozono,706,Lecco v.Sora,LC,Lecco,45.86375372,9.39995481
+10169,Monossido di Carbonio,703,Schivenoglia v. Malpasso,MN,Schivenoglia,45.01688067,11.07609728
+6276,Ossidi di Azoto,606,San Giuliano Milanese via Milano,MI,San Giuliano Milanese,45.39619767,9.28269897
+9802,Biossido di Azoto,670,Mantova S.Agnese,MN,Mantova,45.16057658,10.79557331
+6841,Biossido di Azoto,659,Odolo v.Praes,BS,Odolo,45.64605175,10.38929672
+6204,Ossidi di Azoto,592,Treviglio p.zza Insurrezione,BG,Treviglio,45.51933533,9.59201917
+9899,Ozono,609,Casirate d'Adda v. Cimitero,BG,Casirate d'Adda,45.49822794,9.55624181
+12615,Cadmio,670,Mantova S.Agnese,MN,Mantova,45.16057658,10.79557331
+20216,Biossido di Zolfo,690,Mezzana Bigli loc. Casoni,PV,Mezzana Bigli,45.06966728,8.86890217
