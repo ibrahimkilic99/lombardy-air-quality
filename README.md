@@ -177,7 +177,7 @@ Lombardy region, home to 10 million residents and Italy's economic powerhouse (M
 |----------|-------|
 | **Data Cleaning** | Python (Pandas, NumPy), Jupyter Notebook |
 | **Database** | MySQL 9.6.0 |
-| **Visualization** | Power BI |
+| **Visualization** | Tableau |
 | **Version Control** | Git, GitHub |
 | **Environment** | MacBook Intel, macOS |
 
@@ -223,7 +223,7 @@ Based on analysis findings:
 ### Prerequisites
 - Python 3.10+
 - MySQL 9.6+
-- Power BI Desktop
+- Tableau Desktop
 - Jupyter Notebook
 
 ### Setup Steps
@@ -245,8 +245,8 @@ mysql -u root -p < sql/create_database.sql
 mysql -u root -p lombardy_air_quality < sql/stored_procedures.sql
 ```
 
-4. **Open Power BI Dashboard:**
-- Open `powerbi/Lombardy_Air_Quality_Dashboard.pbix`
+4. **Open Tableau Dashboard:**
+- Open `Lombardy_Air_Quality_Dashboard.twb`
 - Connect to MySQL database
 - Refresh data
 
