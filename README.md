@@ -184,16 +184,18 @@ Lombardy region, home to 10 million residents and Italy's economic powerhouse (M
 ---
 
 ## Project Structure
+
+`````
 lombardy-air-quality/
 ├── README.md
 ├── .gitignore
 ├── data/
 │   ├── raw/
-│   │   ├── Dati_sensori_aria_20260506.csv (External Link - Google Drive)
+│   │   ├── Dati_sensori_aria_20260506.csv (External - Google Drive)
 │   │   └── Stazioni_qualità_dell'aria_20260506.csv
 │   └── clean/
-│       ├── lombardy_air_quality_clean.csv (External Link - Google Drive)
-│       └── stations_clean.csv (492 stations)
+│       ├── lombardy_air_quality_clean.csv (External - Google Drive)
+│       └── stations_clean.csv
 ├── notebooks/
 │   └── lombardy_air_quality_cleaning.ipynb
 ├── sql/
@@ -201,6 +203,7 @@ lombardy-air-quality/
 │   └── stored_procedures.sql
 └── tableau/
     └── Lombardy_Air_Quality_Analysis.twb
+`````
 
 ---
 
